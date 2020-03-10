@@ -1,1 +1,2 @@
 not sample txt
+add 변경사항 인덱스에 등록하기
